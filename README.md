@@ -2,7 +2,7 @@
 
 This is a second version of app IITs Travel Friend
 
-##Important Updates -
+## Important Updates -
 
 1. The entire app has been restructured with a new user-friendly and simple UI. (The one before it is a little childish)
 2. Added a Splash Screen
