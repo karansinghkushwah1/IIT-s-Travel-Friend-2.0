@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550474299112",
+    "project_id": "iit-s-travel-friend",
+    "storage_bucket": "iit-s-travel-friend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550474299112:android:0b288a865aaac0869b7b5d",
+        "android_client_info": {
+          "package_name": "com.example.iitstravelfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550474299112-mqqgs7lbkn9f4sopldcrmec8i6lf6tsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLffPFZh_yhw4YXX2ZoRhiEyMF5oVXNOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550474299112-mqqgs7lbkn9f4sopldcrmec8i6lf6tsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

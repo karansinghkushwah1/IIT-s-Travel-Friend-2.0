@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">IIT\'s Travel Friend</string>
+    <string name="iit_s_travel_friend">IIT\'s Travel Friend</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_register_log_in_here">Already register? Log-in here</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="log_in">Log-in</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="hello_guys_texting">Hello guys texting</string>
+    <string name="logout">Logout</string>
+    <string name="search_by_iit_s_name">Search by IIT\'s name</string>
+    <string name="todo">TODO</string>
+    <string name="search_by_state_name">Search By State Name</string>
+    <string name="list_of_iit_s">List of IIT\'s</string>
+    <string name="nearest_railway_station">Nearest Railway Station</string>
+    <string name="textview1">TextView</string>
+    <string name="Nearest_airport_station">Nearest Airport Station</string>
+    <string name="textview2">TextView</string>
+    <string name="log_out">Log- out</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="thank_you_for_your_feedback">Thank you for your Feedback</string>
+    <string name="user_name">User Name</string>
+    <string name="write_feedback">Write Feedback</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="give_feedback">Give Feedback</string>
+</resources>

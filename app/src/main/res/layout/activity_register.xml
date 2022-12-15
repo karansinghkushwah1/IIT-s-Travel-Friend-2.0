@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--There i used the Linear layout and add other features in it -->
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5de6d2"
+    tools:context=".register">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15.7dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="15.7dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="480dp"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="444dp"
+                android:background="@drawable/white_cueve_bg"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="20.7dp">
+<!--                <TextView -->
+<!--                    android:id="@+id/productname" -->
+<!--                    android:layout_width="match_parent" -->
+<!--                    android:layout_height="wrap_content" -->
+<!--                    android:gravity="center" -->
+<!--                    android:padding="8dp" -->
+<!--                    android:text="@string/iit_s_travel_friend" -->
+<!--                    android:textColor="#EAD941" -->
+<!--                    android:textSize="34sp" -->
+<!--                    android:textStyle="bold" -->
+<!--                    tools:ignore="TextContrastCheck" />-->
+
+                <TextView
+                    android:id="@+id/createaccunt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="57.7dp"
+                    android:layout_marginBottom="15dp"
+                    android:textStyle="bold"
+                    android:textColor="#030303"
+                    android:text="@string/create_a_new_account"
+                    android:textSize="23sp"
+                    tools:ignore="TextContrastCheck" />
+
+                <EditText
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 "
+                    android:ems="10"
+                    android:hint="@string/name"
+                    android:importantForAutofill="no"
+                    android:inputType="textPersonName"
+                    android:minHeight="48dp"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp"
+                    tools:ignore="TextContrastCheck" />
+
+                <EditText
+                    android:id="@+id/email1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="@string/email"
+                    android:importantForAutofill="no"
+                    android:inputType="textPersonName"
+                    android:minHeight="48dp"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp"
+                    tools:ignore="TextContrastCheck" />
+
+                <EditText
+                    android:id="@+id/password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="@string/password"
+                    android:importantForAutofill="no"
+                    android:inputType="textPassword"
+                    android:minHeight="48dp"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp"
+                    tools:ignore="TextContrastCheck" />
+
+                <EditText
+                    android:id="@+id/confirmpasswordb"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="@string/confirm_password"
+                    android:importantForAutofill="no"
+                    android:inputType="textPassword"
+                    android:minHeight="48dp"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp" />
+
+                <Button
+                    android:layout_gravity="center"
+                    android:id="@+id/registerbutton"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#5de6d2"
+                    android:paddingTop="4dp"
+                    android:text="@string/register"
+                    android:textColor="@color/black"
+                    tools:ignore="TextContrastCheck" />
+
+                <TextView
+                    android:layout_gravity="center"
+                    android:id="@+id/alreadyregister"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/already_register_log_in_here"
+                    android:textColor="#030303"
+                    android:textSize="10sp"
+                    tools:ignore="TextContrastCheck" />
+
+
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
