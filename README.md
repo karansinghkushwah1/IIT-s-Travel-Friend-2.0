@@ -12,44 +12,4 @@ This is a second version of app IITs Travel Friend
 
 ## Screenshot -
 
-<img
-  src="screenshot_app/Screenshot_1671113980.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  <img
-  src="screenshot_app/Screenshot_1671113986.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  <img
-  src="screenshot_app/Screenshot_1671114159.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  <img
-  src="screenshot_app/Screenshot_1671114166.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  <img
-  src="screenshot_app/Screenshot_1671114222.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  <img
-  src="screenshot_app/Screenshot_1671114227.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  <img
-  src="screenshot_app/Screenshot_1671114252.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671113980.png" width=20% height=20%>
