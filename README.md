@@ -11,13 +11,14 @@ This is a second version of app IITs Travel Friend
 5. The default navigation bar that looks bad was also removed.
 
 ## Screenshot -
+<p>
+<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671113980.png" hspace="10" width=25% height=25% style="display: inline-block;">
 
-<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671113980.png" width=30% height=30% style="display: inline-block;">
+<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671113986.png" hspace="10" width=25% height=25% style="display: inline-block;">
 
-<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671113986.png" width=30% height=30% style="display: inline-block;">
+<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671114159.png" hspace="10" width=25% height=25% style="display: inline-block;">
 
-<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671114159.png" width=30% height=30% style="display: inline-block;">
+<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671114166.png" hspace="10" width=25% height=25% style="display: inline-block;">
 
-<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671114166.png" width=30% height=30% style="display: inline-block;">
-
-<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671114222.png" width=30% height=30% style="display: inline-block;">
+<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671114222.png" hspace="10" width=25% height=25% style="display: inline-block;">
+</p>
