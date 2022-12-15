@@ -15,3 +15,9 @@ This is a second version of app IITs Travel Friend
 <img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671113980.png" width=30% height=30% style="display: inline-block;">
 
 <img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671113986.png" width=30% height=30% style="display: inline-block;">
+
+<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671114159.png" width=30% height=30% style="display: inline-block;">
+
+<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671114166.png" width=30% height=30% style="display: inline-block;">
+
+<img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671114222.png" width=30% height=30% style="display: inline-block;">
