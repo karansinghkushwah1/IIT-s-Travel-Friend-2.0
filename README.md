@@ -10,7 +10,7 @@ This is a second version of app IITs Travel Friend
 4. If you press the back button, the log-in or sign-up window appears, and the problem is resolved.
 5. The default navigation bar that looks bad was also removed.
 
-## Screenshot -
+## Screenshots -
 <p>
 <img src="https://github.com/karansinghkushwah1/IIT-s-Travel-Friend-2.0/blob/master/screenshot_app/Screenshot_1671113980.png" hspace="10" width=25% height=25% style="display: inline-block;">
 
